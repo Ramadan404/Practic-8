@@ -23,7 +23,7 @@
 
 ### Скриншоты
 
-<img src="screenshots/1 Screenshot 2025-04-21 144704.png" alt="Меню пиццерии">
-<img src="screenshots/2 Screenshot 2025-04-21 144730.png" alt="Кастомизация пиццы">
-<img src="screenshots/3 Screenshot 2025-04-21 144740.png" alt="Формирование заказа">
-<img src="screenshots/4 Screenshot 2025-04-21 144750.png" alt="Итоговый чек">
+<img src="screenshots/screen1.PNG" alt="Меню пиццерии">
+<img src="screenshots/screen2.PNG" alt="Кастомизация пиццы">
+<img src="screenshots/screen3.PNG" alt="Формирование заказа">
+<img src="screenshots/screen4.PNG" alt="Итоговый чек">
